@@ -1,0 +1,10 @@
+name: zerotopandas
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pywin32
+  - seaborn
