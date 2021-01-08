@@ -2,5 +2,7 @@ name: zerotopandas
 channels:
   - defaults
 dependencies:
-  - pip
-  - pywin32
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn
